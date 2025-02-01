@@ -1,8 +1,4 @@
--- Energize by illremember, fe animations
--- DO NOT COPY AND CLAIM AS OWN, if you are using some of the script for your own, credit is highly appreciated!
--- Thank you, and enjoy.
- 
--- Objects
+-- k
  
 local Energize = Instance.new("ScreenGui") -- The actual GUI
 local SideFrame = Instance.new("Frame") -- Visible when GUI is closed
@@ -1704,7 +1700,7 @@ RotateSlash.MouseButton1Click:connect(function()
 end)
  
 local Anim = Instance.new("Animation")
-Anim.AnimationId = "rbxassetid://754656200"
+Anim.AnimationId = "rbxassetid://73138031515185"
 local track = game.Players.LocalPlayer.Character.Humanoid:LoadAnimation(Anim)
 FlingArmsACTIVE = false
 FlingArms.MouseButton1Click:connect(function()
